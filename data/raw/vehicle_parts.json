@@ -8,6 +8,7 @@
         "durability": 100,
         "item": "NULL",
         "difficulty": 0,
+        "welding_complexity": 0,
         "flags": []
     },
     {
@@ -20,6 +21,7 @@
         "durability": 300,
         "item": "seat",
         "difficulty": 1,
+        "welding_complexity": 30,
         "flags": [
             "OVER", "SEAT", "BOARDABLE", "CARGO", "NO_REINFORCE", "ANCHOR_POINT"
         ]
@@ -34,6 +36,7 @@
         "durability": 200,
         "item": "saddle",
         "difficulty": 1,
+        "welding_complexity": 30,
         "flags": [
             "OVER", "SEAT", "BOARDABLE", "NO_REINFORCE"
         ]
@@ -48,6 +51,7 @@
         "durability": 300,
         "item": "seat",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "OVER", "BED", "BOARDABLE", "CARGO", "NO_REINFORCE"
         ]
@@ -61,6 +65,7 @@
         "durability": 400,
         "item": "frame",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER"
         ]
@@ -74,6 +79,7 @@
         "durability": 400,
         "item": "frame",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER"
         ]
@@ -87,6 +93,7 @@
         "durability": 400,
         "item": "frame",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER"
         ]
@@ -100,6 +107,7 @@
         "durability": 400,
         "item": "frame",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER"
         ]
@@ -113,6 +121,7 @@
         "durability": 400,
         "item": "frame",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER"
         ]
@@ -128,7 +137,8 @@
         "difficulty": 1,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER"
-        ]
+        ],
+        "welding_complexity": 50
     },
     {
         "name": "frame",
@@ -139,6 +149,7 @@
         "durability": 400,
         "item": "frame",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER"
         ]
@@ -152,6 +163,7 @@
         "durability": 400,
         "item": "frame",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER"
         ]
@@ -165,6 +177,7 @@
         "durability": 400,
         "item": "frame",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER"
         ]
@@ -178,6 +191,7 @@
         "durability": 400,
         "item": "frame",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER"
         ]
@@ -191,6 +205,7 @@
         "durability": 300,
         "item": "frame",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER"
         ]
@@ -204,6 +219,7 @@
         "durability": 1000,
         "item": "steel_plate",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER", "OPAQUE", "OBSTACLE"
         ]
@@ -217,6 +233,7 @@
         "durability": 1000,
         "item": "steel_plate",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER", "OPAQUE", "OBSTACLE"
         ]
@@ -230,6 +247,7 @@
         "durability": 1000,
         "item": "steel_plate",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER", "OPAQUE", "OBSTACLE"
         ]
@@ -243,6 +261,7 @@
         "durability": 1000,
         "item": "steel_plate",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER", "OPAQUE", "OBSTACLE"
         ]
@@ -256,6 +275,7 @@
         "durability": 1000,
         "item": "steel_plate",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER", "OPAQUE", "OBSTACLE"
         ]
@@ -269,6 +289,7 @@
         "durability": 1000,
         "item": "steel_plate",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER", "OPAQUE", "OBSTACLE"
         ]
@@ -282,6 +303,7 @@
         "durability": 400,
         "item": "frame",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "INTERNAL", "OVER", "NO_REINFORCE", "AISLE", "BOARDABLE"
         ]
@@ -295,6 +317,7 @@
         "durability": 400,
         "item": "frame",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "INTERNAL", "OVER", "NO_REINFORCE", "AISLE", "BOARDABLE"
         ]
@@ -308,6 +331,7 @@
         "durability": 400,
         "item": "frame",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "INTERNAL", "OVER", "NO_REINFORCE", "AISLE", "BOARDABLE", "CARGO"
         ]
@@ -321,6 +345,7 @@
         "durability": 1000,
         "item": "steel_plate",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "INTERNAL", "ROOF"
         ]
@@ -335,6 +360,7 @@
         "durability": 200,
         "item": "frame",
         "difficulty": 2,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "OBSTACLE", "OPENABLE", "BOARDABLE"
         ]
@@ -349,6 +375,7 @@
         "durability": 200,
         "item": "frame",
         "difficulty": 2,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "OBSTACLE", "OPAQUE", "OPENABLE", "BOARDABLE"
         ]
@@ -363,6 +390,7 @@
         "durability": 75,
         "item": "frame",
         "difficulty": 2,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "OBSTACLE", "OPAQUE", "OPENABLE", "ROOF", "NO_REINFORCE", "BOARDABLE"
         ]
@@ -377,6 +405,7 @@
         "durability": 50,
         "item": "glass_sheet",
         "difficulty": 1,
+        "welding_complexity": 40,
         "flags": [
             "OVER", "OBSTACLE", "NO_REINFORCE"
         ]
@@ -391,6 +420,7 @@
         "durability": 100,
         "item": "blade",
         "difficulty": 2,
+        "welding_complexity": 20;
         "flags": [
             "EXTERNAL", "UNMOUNT_ON_DAMAGE", "SHARP", "NO_REINFORCE"
         ]
@@ -405,6 +435,7 @@
         "durability": 100,
         "item": "blade",
         "difficulty": 2,
+        "welding_complexity": 20,
         "flags": [
             "EXTERNAL", "UNMOUNT_ON_DAMAGE", "SHARP", "NO_REINFORCE"
         ]
@@ -419,6 +450,7 @@
         "durability": 100,
         "item": "spike",
         "difficulty": 2,
+        "welding_complexity": 10,
         "flags": [
             "EXTERNAL", "UNMOUNT_ON_DAMAGE", "SHARP", "NO_REINFORCE"
         ]
@@ -434,6 +466,7 @@
         "wheel_width": 9,
         "item": "wheel",
         "difficulty": 4,
+        "welding_complexity": 40,
         "flags": [
             "EXTERNAL", "MOUNT_OVER", "WHEEL", "MOUNT_POINT", "VARIABLE_SIZE"
         ]
@@ -449,6 +482,7 @@
         "wheel_width": 14,
         "item": "wheel_wide",
         "difficulty": 5,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "MOUNT_OVER", "WHEEL", "MOUNT_POINT", "VARIABLE_SIZE"
         ]
@@ -464,6 +498,7 @@
         "wheel_width": 14,
         "item": "wheel_wide",
         "difficulty": 6,
+        "welding_complexity": 60,
         "flags": [
             "EXTERNAL", "MOUNT_INNER", "WHEEL", "MOUNT_POINT", "VARIABLE_SIZE"
         ]
@@ -479,6 +514,7 @@
         "wheel_width": 2,
         "item": "wheel_bicycle",
         "difficulty": 1,
+        "welding_complexity": 10,
         "flags": [
             "EXTERNAL", "MOUNT_OVER", "WHEEL", "MOUNT_POINT", "VARIABLE_SIZE"
         ]
@@ -494,6 +530,7 @@
         "wheel_width": 4,
         "item": "wheel_motorbike",
         "difficulty": 2,
+        "welding_complexity": 30,
         "flags": [
             "EXTERNAL", "MOUNT_OVER", "WHEEL", "MOUNT_POINT", "VARIABLE_SIZE"
         ]
@@ -509,6 +546,7 @@
         "wheel_width": 6,
         "item": "wheel_small",
         "difficulty": 2,
+        "welding_complexity": 20,
         "flags": [
             "EXTERNAL", "MOUNT_OVER", "WHEEL", "MOUNT_POINT", "VARIABLE_SIZE"
         ]
@@ -524,6 +562,7 @@
         "wheel_width": 6,
         "item": "wheel_caster",
         "difficulty": 1,
+        "welding_complexity": 10,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER", "WHEEL", "VARIABLE_SIZE"
         ]
@@ -540,6 +579,7 @@
         "fuel_type": "gasoline",
         "item": "1cyl_combustion",
         "difficulty": 2,
+        "welding_complexity": 90,
         "flags": [
             "INTERNAL", "ENGINE", "VARIABLE_SIZE"
         ]
@@ -556,6 +596,7 @@
         "fuel_type": "gasoline",
         "item": "v2_combustion",
         "difficulty": 2,
+        "welding_complexity": 90,
         "flags": [
             "INTERNAL", "ENGINE", "VARIABLE_SIZE"
         ]
@@ -571,6 +612,7 @@
         "fuel_type": "gasoline",
         "item": "i4_combustion",
         "difficulty": 3,
+        "welding_complexity": 100,
         "flags": [
             "INTERNAL", "ENGINE", "VARIABLE_SIZE"
         ]
@@ -587,6 +629,7 @@
         "fuel_type": "gasoline",
         "item": "v6_combustion",
         "difficulty": 4,
+        "welding_complexity": 120,
         "flags": [
             "INTERNAL", "ENGINE", "VARIABLE_SIZE"
         ]
@@ -603,6 +646,7 @@
         "fuel_type": "gasoline",
         "item": "v8_combustion",
         "difficulty": 4,
+        "welding_complexity": 180,
         "flags": [
             "INTERNAL", "ENGINE", "VARIABLE_SIZE"
         ]
@@ -619,6 +663,7 @@
         "fuel_type": "battery",
         "item": "motor",
         "difficulty": 3,
+        "welding_complexity": 75,
         "flags": [
             "INTERNAL", "ENGINE"
         ]
@@ -635,6 +680,7 @@
         "fuel_type": "battery",
         "item": "motor_large",
         "difficulty": 4,
+        "welding_complexity": 100,
         "flags": [
             "INTERNAL", "ENGINE"
         ]
@@ -651,6 +697,7 @@
         "fuel_type": "plasma",
         "item": "plasma_engine",
         "difficulty": 6,
+        "welding_complexity": 200,
         "flags": [
             "INTERNAL", "ENGINE"
         ]
@@ -667,6 +714,7 @@
         "fuel_type": "muscle",
         "item": "foot_crank",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "INTERNAL", "ENGINE"
         ]
@@ -683,6 +731,7 @@
         "fuel_type": "gasoline",
         "item": "metal_tank",
         "difficulty": 1,
+        "welding_complexity": 60,
         "flags": [
             "INTERNAL", "FUEL_TANK"
         ]
@@ -699,6 +748,7 @@
         "fuel_type": "battery",
         "item": "storage_battery",
         "difficulty": 2,
+        "welding_complexity": 60,
         "flags": [
             "INTERNAL", "FUEL_TANK"
         ]
@@ -715,6 +765,7 @@
         "fuel_type": "plutonium",
         "item": "minireactor",
         "difficulty": 7,
+        "welding_complexity": 250,
         "flags": [
             "INTERNAL", "FUEL_TANK"
         ]
@@ -731,6 +782,7 @@
         "fuel_type": "plasma",
         "item": "metal_tank",
         "difficulty": 1,
+        "welding_complexity": 40,
         "flags": [
             "INTERNAL", "FUEL_TANK"
         ]
@@ -747,6 +799,7 @@
         "fuel_type": "water",
         "item": "metal_tank",
         "difficulty": 1,
+        "welding_complexity": 40,
         "flags": [
             "INTERNAL", "FUEL_TANK"
         ]
@@ -762,6 +815,7 @@
         "size": 400,
         "item": "frame",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "OVER", "CARGO"
         ]
@@ -777,6 +831,7 @@
         "size": 400,
         "item": "frame",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "OVER", "CARGO", "BOARDABLE"
         ]
@@ -791,6 +846,7 @@
         "durability": 250,
         "item": "vehicle_controls",
         "difficulty": 3,
+        "welding_complexity": 75,
         "flags": [
             "INTERNAL", "CONTROLS"
         ]
@@ -806,6 +862,7 @@
         "bonus": 40,
         "item": "muffler",
         "difficulty": 2,
+        "welding_complexity": 25,
         "flags": [
             "INTERNAL", "MUFFLER"
         ]
@@ -821,6 +878,7 @@
         "bonus": 25,
         "item": "rope_6",
         "difficulty": 1,
+        "welding_complexity": 10,
         "flags": [
             "INTERNAL", "SEATbelt"
         ]
@@ -836,6 +894,7 @@
         "power": 30,
         "item": "solar_panel",
         "difficulty": 6,
+        "welding_complexity": 25,
         "flags": [
             "OVER", "SOLAR_PANEL"
         ]
@@ -850,6 +909,7 @@
         "durability": 20,
         "item": "kitchen_unit",
         "difficulty": 4,
+        "welding_complexity": 100,
         "flags": [
             "OVER", "CARGO", "NO_REINFORCE", "OBSTACLE", "KITCHEN"
         ]
@@ -864,6 +924,7 @@
         "durability": 20,
         "item": "weldrig",
         "difficulty": 4,
+        "welding_complexity": 100,
         "flags": [
             "OVER", "CARGO", "NO_REINFORCE", "OBSTACLE", "WELDRIG"
         ]
@@ -879,6 +940,7 @@
         "fuel_type": "223",
         "item": "m249",
         "difficulty": 6,
+        "welding_complexity": 75,
         "flags": [
             "OVER", "TURRET", "CARGO"
         ]
@@ -894,6 +956,7 @@
         "fuel_type": "gasoline",
         "item": "flamethrower",
         "difficulty": 7,
+        "welding_complexity": 75,
         "flags": [
             "OVER", "TURRET"
         ]
@@ -909,6 +972,7 @@
         "fuel_type": "plasma",
         "item": "plasma_rifle",
         "difficulty": 7,
+        "welding_complexity": 75,
         "flags": [
             "OVER", "TURRET"
         ]
@@ -924,6 +988,7 @@
         "fuel_type": "battery",
         "item": "ftk93",
         "difficulty": 7,
+        "welding_complexity": 75,
         "flags": [
             "OVER", "TURRET"
         ]
@@ -937,6 +1002,7 @@
         "durability": 1000,
         "item": "steel_plate",
         "difficulty": 3,
+        "welding_complexity": 50,
         "flags": [
             "INTERNAL", "ARMOR"
         ]
@@ -950,6 +1016,7 @@
         "durability": 900,
         "item": "alloy_plate",
         "difficulty": 4,
+        "welding_complexity": 75,
         "flags": [
             "INTERNAL", "ARMOR"
         ]
@@ -964,6 +1031,7 @@
         "durability": 900,
         "item": "spiked_plate",
         "difficulty": 3,
+        "welding_complexity": 60,
         "flags": [
             "INTERNAL", "ARMOR", "SHARP"
         ]
@@ -977,6 +1045,7 @@
         "durability": 2300,
         "item": "hard_plate",
         "difficulty": 4,
+        "welding_complexity": 75,
         "flags": [
             "INTERNAL", "ARMOR"
         ]
@@ -992,6 +1061,7 @@
         "par1": 480,
         "item": "flashlight",
         "difficulty": 1,
+        "welding_complexity": 10,
         "flags": [
             "INTERNAL", "LIGHT"
         ]
