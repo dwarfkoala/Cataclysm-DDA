@@ -135,10 +135,10 @@
         "durability": 400,
         "item": "frame",
         "difficulty": 1,
+        "welding_complexity": 50,
         "flags": [
             "EXTERNAL", "MOUNT_POINT", "MOUNT_INNER"
-        ],
-        "welding_complexity": 50
+        ]
     },
     {
         "name": "frame",
